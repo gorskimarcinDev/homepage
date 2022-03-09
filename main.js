@@ -1,0 +1,1 @@
+console.log('Cześć, jestem Marcin. Miło Cię widzieć :)')

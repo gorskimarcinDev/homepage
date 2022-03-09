@@ -1,0 +1,28 @@
+body {
+    background-color: #fefefe;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+}
+
+h2 {
+    color: #1460aa;
+}
+
+p {
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #555;
+}
+
+.header {
+    font-size: 2.5em;
+    color: navy;
+}
+
+.photo {
+    height: 600px;
+}
